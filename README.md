@@ -1,5 +1,7 @@
 # 🧸 SmartToys Ecommerce Profitability & Customer Journey Analytics
 
+[VIEW THE LIVE DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiODMzN2ZmYjgtNWU3Yi00YjA5LTg4YmItM2E5MDMyOTUyNDYxIiwidCI6IjM3MGZiM2I4LTMzMDYtNDg5MC05MDYzLWNjMDhiZTc4ODI1NyIsImMiOjEwfQ%3D%3D)
+
 **End-to-end analytics project · Python · Google BigQuery · Power BI**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
