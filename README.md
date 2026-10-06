@@ -223,6 +223,7 @@ Landing → Product loses **211,640** sessions; Product → Cart loses **166,278
 The report follows a **left-to-right, top-to-bottom** reading order, with the most important business outcomes first and deeper diagnostics below.
 
 ### 🏠 1. Introduction
+<img width="1504" height="853" alt="1 Introduction" src="https://github.com/user-attachments/assets/47fea5f7-4e77-47c9-95ca-01fe5f7e3788" />
 
 Sets out the decision problem, data flow, report navigation, and how each page contributes to the analysis.
 
@@ -230,25 +231,26 @@ Sets out the decision problem, data flow, report navigation, and how each page c
 
 Shows gross revenue, gross profit, orders, conversion, sessions, AOV, refund amount, monthly revenue/conversion, and revenue by product. The historical revenue series reaches **$144.8K in December 2014**, the highest monthly gross revenue in the complete 2014 calendar year.
 
-![SmartToys Overview dashboard](assets/overview.png)
+<img width="953" height="613" alt="2 Overview" src="https://github.com/user-attachments/assets/1fd5cebc-8a77-4f67-96b7-0e9be0261e41" />
+
 
 ### 🧸 3. Product & Refund
 
 Separates sales scale from product margin and refund exposure. It also compares single- and multi-item orders and lists co-purchased product pairs with confidence and lift.
 
-![SmartToys Product and Refund dashboard](assets/product-refund.png)
+<img width="1184" height="773" alt="3 Product" src="https://github.com/user-attachments/assets/fe400377-8b1b-41b0-9f5c-338c8f7fce41" />
 
 ### 👥 4. Customers & Retention
 
 Displays buyers, repeat-order share, orders per buyer, and a monthly cohort table. `M0` is the first purchase month. The later months of recent cohorts have less follow-up, so zero or blank cells near the right edge must be interpreted with the available observation window in mind.
 
-![SmartToys Customer and Retention dashboard](assets/customer-retention.png)
+<img width="1158" height="760" alt="4 Customer" src="https://github.com/user-attachments/assets/a5beacce-d381-4d26-8642-0bc24b33c231" />
 
 ### 🌐 5. Traffic & Funnel
 
 Compares session distribution and conversion by device and source, then presents the ordered funnel and monthly drop-off trends at Product → Cart and Billing → Order.
 
-![SmartToys Traffic and Funnel dashboard](assets/traffic-funnel.png)
+<img width="900" height="775" alt="5 Website" src="https://github.com/user-attachments/assets/803b18b8-507c-4e1c-86e1-42616dfe7ad2" />
 
 ## 💡 Diagnostic insights
 
