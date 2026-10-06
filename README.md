@@ -22,7 +22,7 @@ The analysis covers website sessions and orders from **19 March 2012 to 19 March
 
 - [Business context and objectives](#-business-context-and-objectives)
 - [Business requirements](#-business-requirements)
-- [Data scope](##-🗂️-data-scope)
+- [Data scope](#-🗂️-data-scope)
 - [Data processing with Python and BigQuery](#-data-processing-with-python-and-bigquery)
 - [Data model and metric definitions](#-data-model-and-metric-definitions)
 - [Descriptive analysis](#-descriptive-analysis)
