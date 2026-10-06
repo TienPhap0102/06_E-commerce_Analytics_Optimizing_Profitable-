@@ -22,7 +22,7 @@ The analysis covers website sessions and orders from **19 March 2012 to 19 March
 
 - [Business context and objectives](#-business-context-and-objectives)
 - [Business requirements](#-business-requirements)
-- [Data scope](#-🗂️-data-scope)
+- [Data scope](#-data-scope)
 - [Data processing with Python and BigQuery](#-data-processing-with-python-and-bigquery)
 - [Data model and metric definitions](#-data-model-and-metric-definitions)
 - [Descriptive analysis](#-descriptive-analysis)
@@ -57,7 +57,7 @@ This project has four objectives:
 | Where do sessions drop out? | Ordered landing → product → cart → shipping → billing → thank-you funnel, with stage and device comparison. |
 | Do customers return to buy? | Unique buyers, repeat orders, orders per buyer, and monthly acquisition-cohort table. |
 
-## 🗂️ Data scope
+## Data scope
 
 | Source CSV | Grain | Role in analysis |
 | --- | --- | --- |
