@@ -346,8 +346,11 @@ The `notebooks/`, `data-dictionary/`, `power-bi/`, and `presentation/` folders a
 
 ## 👤 Author
 
-**Tiến Pháp**
+**[Tien Phap]** 
 
-- [GitHub portfolio](https://github.com/TienPhap0102)
-- [LinkedIn](https://www.linkedin.com/in/phap-pham-tien-3a1a57268/)
+**Project Completion Date:** 10/2026
+
+- LinkedIn: [Phap Pham Tien](https://www.linkedin.com/in/phap-pham-tien-3a1a57268/) 
+- Portfolio: [Tien Phap](https://github.com/TienPhap0102?tab=repositories) 
 - Email: `tienphap0102@gmail.com`
+
